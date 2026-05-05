@@ -4,7 +4,7 @@ import { ChevronDown } from 'lucide-react';
 
 const faqs = [
   {
-    question: "A Ril atende em João Pessoa?",
+    question: "A Rimel atende em João Pessoa?",
     answer: "Sim! Somos uma empresa sediada e com forte atuação em João Pessoa, atendendo não só a capital metropolitana, mas também as regiões próximas com rapidez."
   },
   {

@@ -10,7 +10,7 @@ const testimonials = [
   {
     name: "Ana Paula R.",
     role: "Proprietária de Loja",
-    content: "Contratei a Ril para adequar a rede elétrica da minha loja. Serviço impecável, quadros muito bem organizados e o atendimento no WhatsApp foi rápido. Não atrapalhou o funcionamento do meu negócio. Recomendo sempre."
+    content: "Contratei a Rimel para adequar a rede elétrica da minha loja. Serviço impecável, quadros muito bem organizados e o atendimento no WhatsApp foi rápido. Não atrapalhou o funcionamento do meu negócio. Recomendo sempre."
   },
   {
     name: "Roberto S.",

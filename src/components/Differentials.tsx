@@ -23,7 +23,7 @@ export default function Differentials() {
               viewport={{ once: true }}
               className="font-oswald text-3xl sm:text-4xl font-bold text-primary-dark mb-6"
             >
-              Por que escolher a Ril?
+              Por que escolher a Rimel?
             </motion.h2>
             <motion.p 
               initial={{ opacity: 0, y: 20 }}

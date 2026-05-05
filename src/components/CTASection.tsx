@@ -27,7 +27,7 @@ export default function CTASection() {
           transition={{ delay: 0.1 }}
           className="text-xl text-blue-50 mb-10 max-w-2xl mx-auto"
         >
-          Evite riscos, quedas de energia e instalações mal feitas. Fale agora com a Ril e solicite um orçamento rápido pelo WhatsApp.
+          Evite riscos, quedas de energia e instalações mal feitas. Fale agora com a Rimel e solicite um orçamento rápido pelo WhatsApp.
         </motion.p>
         
         <motion.div

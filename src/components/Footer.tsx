@@ -11,12 +11,12 @@ export default function Footer() {
           {/* Brand Col */}
           <div className="lg:col-span-1">
             <img 
-              src="https://i.imgur.com/vfffFrF.jpeg" 
-              alt="Logo Ril Instalações Elétricas" 
+              src="https://i.imgur.com/3g9RqvP.png" 
+              alt="Logo Rimel Instalações Elétricas" 
               className="h-14 w-auto rounded-md mb-6 shadow-sm" 
             />
             <p className="text-blue-100/70 text-sm leading-relaxed mb-6 pr-4">
-              A Ril oferece soluções elétricas de qualidade, garantindo a proteção de residências e comércios com profissionalismo e excelência.
+              A Rimel oferece soluções elétricas de qualidade, garantindo a proteção de residências e comércios com profissionalismo e excelência.
             </p>
             <a 
               href="https://wa.me/5583987472470"
@@ -48,8 +48,8 @@ export default function Footer() {
               <div className="flex items-start gap-4">
                 <MapPin className="text-secondary shrink-0 mt-0.5" size={20} />
                 <p className="text-blue-100/70 text-sm leading-relaxed">
-                  Av. Dr. Antonio Lins 908<br/>
-                  João Pessoa, PB, 58085-530<br/>
+                  Avenida Vale das Palmeiras 301, Bairro Cristo Redentor<br/>
+                  João Pessoa, PB<br/>
                   Atendimento em toda a região
                 </p>
               </div>
@@ -64,7 +64,7 @@ export default function Footer() {
 
         {/* Bottom */}
         <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-blue-100/50">
-          <p>© {currentYear} Ril - Redes Instalações e Manutenção Elétrica. Todos os direitos reservados.</p>
+          <p>© {currentYear} Rimel - Redes Instalações e Manutenção Elétrica. Todos os direitos reservados.</p>
           <p>Eletricista Profissional em João Pessoa - PB</p>
         </div>
       </div>

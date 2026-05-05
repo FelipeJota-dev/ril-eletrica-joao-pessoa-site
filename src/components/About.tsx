@@ -18,7 +18,7 @@ export default function About() {
             <div className="absolute inset-0 bg-primary-dark/10 mix-blend-multiply z-10" />
             <img 
               src="https://i.imgur.com/ObnwiOs.png" 
-              alt="Sobre a Ril Instalações Elétricas" 
+              alt="Sobre a Rimel Instalações Elétricas" 
               className="w-full h-full object-cover aspect-[4/3] lg:aspect-[3/4]"
             />
           </motion.div>
@@ -32,7 +32,7 @@ export default function About() {
               transition={{ duration: 0.6 }}
               className="font-oswald text-3xl sm:text-4xl font-bold text-primary-dark mb-6"
             >
-              Sobre a Ril - Redes Instalações e Manutenção Elétrica
+              Sobre a Rimel - Redes Instalações e Manutenção Elétrica
             </motion.h2>
             
             <motion.div 
@@ -43,11 +43,11 @@ export default function About() {
               className="space-y-4 text-gray-600 text-lg leading-relaxed mb-10"
             >
               <p>
-                A <strong>Ril Instalações</strong> oferece serviços elétricos seguros, profissionais e confiáveis em João Pessoa e regiões próximas. Nosso foco é garantir a sua tranquilidade através de um trabalho pautado na qualidade técnica, organização minuciosa e estrita obediência às normas de instalação corretas (NR-10 e NBR 5410).
+                A <strong>Rimel Instalações</strong> oferece serviços elétricos seguros, profissionais e confiáveis em João Pessoa e regiões próximas. Nosso foco é garantir a sua tranquilidade através de um trabalho pautado na qualidade técnica, organização minuciosa e estrita obediência às normas de instalação corretas (NR-10 e NBR 5410).
               </p>
               <p>
                 Acreditamos que a prevenção é o melhor caminho, por isso nossa manutenção preventiva é desenhada para evitar dores de cabeça estruturais no futuro.
-                Com a Ril, você não contrata apenas um eletricista, mas sim experiência técnica e a total confiança de que seu imóvel estará protegido contra riscos e falhas elétricas.
+                Com a Rimel, você não contrata apenas um eletricista, mas sim experiência técnica e a total confiança de que seu imóvel estará protegido contra riscos e falhas elétricas.
               </p>
             </motion.div>
 

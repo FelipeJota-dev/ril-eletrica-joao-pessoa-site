@@ -81,8 +81,8 @@ export default function Hero() {
           {/* Subtle glow behind image */}
           <div className="absolute inset-0 bg-secondary/20 blur-[80px] rounded-full z-0" />
           <img
-            src="https://i.imgur.com/OYUxd0h.png"
-            alt="Profissional da Ril Eletricista em serviço"
+            src="https://i.imgur.com/sCANhDE.png"
+            alt="Profissional da Rimel Eletricista em serviço"
             className="w-full h-auto object-contain relative z-10 drop-shadow-2xl"
           />
         </motion.div>

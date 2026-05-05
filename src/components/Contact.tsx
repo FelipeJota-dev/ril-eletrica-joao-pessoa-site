@@ -63,8 +63,8 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="text-gray-500 text-sm font-semibold uppercase tracking-wider mb-1">Endereço</h3>
-                <p className="text-primary-dark font-bold text-lg leading-tight">Av. Dr. Antonio Lins 908</p>
-                <p className="text-gray-600 text-sm mb-1 mt-1">João Pessoa, PB - 58085-530</p>
+                <p className="text-primary-dark font-bold text-lg leading-tight">Avenida Vale das Palmeiras 301,</p>
+                <p className="text-gray-600 text-sm mb-1 mt-1">Bairro Cristo Redentor, João Pessoa, PB</p>
                 <p className="text-secondary font-bold text-sm bg-secondary/10 inline-block px-2 py-1 rounded">
                   Atendemos João Pessoa e região
                 </p>
@@ -76,14 +76,14 @@ export default function Contact() {
           {/* Map Embed */}
           <div className="w-full lg:w-3/5 min-h-[400px] bg-gray-200">
             <iframe 
-              src="https://maps.google.com/maps?q=Av.%20Dr.%20Antonio%20Lins%2C%20908%20-%20Oitizeiro%2C%20João%20Pessoa%20-%20PB%2C%2058085-530&t=&z=15&ie=UTF8&iwloc=&output=embed"
+              src="https://maps.google.com/maps?q=Avenida%20Vale%20das%20Palmeiras%20301%2C%20Bairro%20Cristo%20Redentor%2C%20Jo%C3%A3o%20Pessoa%2C%20PB&t=&z=15&ie=UTF8&iwloc=&output=embed"
               width="100%" 
               height="100%" 
               style={{ border: 0, minHeight: '100%' }} 
               allowFullScreen={true}
               loading="lazy" 
               referrerPolicy="no-referrer-when-downgrade"
-              title="Localização Ril Eletricista"
+              title="Localização Rimel Eletricista"
             />
           </div>
 

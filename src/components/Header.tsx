@@ -33,9 +33,9 @@ export default function Header() {
     >
       <div className="container mx-auto px-4 max-w-7xl flex items-center justify-between">
         <a href="#inicio" className="flex items-center gap-3">
-          <img src="https://i.imgur.com/vfffFrF.jpeg" alt="Logo Ril" className="h-12 w-auto rounded-md shadow-sm" />
+          <img src="https://i.imgur.com/3g9RqvP.png" alt="Logo Rimel" className="h-12 w-auto rounded-md shadow-sm" />
           <span className="text-white font-oswald text-xl font-bold tracking-wide hidden sm:block">
-            RIL INSTALAÇÕES
+            RIMEL INSTALAÇÕES
           </span>
         </a>
 
@@ -84,7 +84,7 @@ export default function Header() {
             className="fixed inset-0 z-[100] bg-primary-dark shadow-2xl lg:hidden flex flex-col"
           >
             <div className="p-4 flex items-center justify-between border-b border-white/10">
-              <img src="https://i.imgur.com/vfffFrF.jpeg" alt="Logo Ril" className="h-10 w-auto rounded-md" />
+              <img src="https://i.imgur.com/3g9RqvP.png" alt="Logo Rimel" className="h-10 w-auto rounded-md" />
               <button
                 onClick={() => setMobileMenuOpen(false)}
                 className="text-white p-2"
